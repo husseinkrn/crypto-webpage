@@ -1,0 +1,146 @@
+
+
+   h1{
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    width: 75%;
+    text-align: start;
+    color: black; 
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: start;
+    } 
+    p{
+      color: black; margin-top: 30px; width: 75%; margin-left: 12.5%;
+    }
+    #pheader{
+    color: white!important;
+    width: 100%;
+
+}
+ol li{
+
+  margin: auto;
+ width: 75%;
+ text-align: start;
+ color: black; 
+ margin-top: 20px;
+    
+}
+
+.container-fluid{
+  display: flex;
+  height: auto;
+  width: 100%;
+   
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cssscript.com%2Fwp-content%2Fuploads%2F2014%2F11%2FCreating-An-Animated-Particle-System-Using-Particles.js.jpg&f=1&nofb=1);
+}
+
+
+
+
+#getstarted{
+
+ 
+  padding: 15%;
+  width: 75%;
+  height: auto;
+  float: left;
+  display: inline;
+}
+
+
+span{
+  
+float: right;
+width: 75%;
+}
+#image1{
+float: right;
+margin: 25%;
+width: auto;
+border-radius: 50%;
+}
+
+img{
+width: 75%;
+margin-left: 12.5%;
+}
+main img{
+text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+
+#image1{
+float: none;
+width : 200px; 
+border-radius: 50%;
+margin: auto;
+}
+span{
+text-align: center;
+
+top: 0%;
+}
+.container-fluid{
+ display: flex;
+ flex-wrap: wrap;
+}
+
+#getstarted{
+
+ 
+padding: 13%;
+width: 100%;
+height: auto;
+float: left;
+display: block;
+}
+nav a{
+text-align: left;
+}
+
+  h1{
+    
+    width: 100%;
+    margin: 10px;
+ 
+    color: black; 
+   display: inline;
+    } 
+    
+    #pheader{
+    color: white!important;
+    width: 100%;
+    }
+    p{
+      color: black; margin-top: 0; width: 100%; margin-left: 0; font-size: medium; padding: 10px;
+    }
+ol li{
+
+  margin: auto;
+  padding: 20px;
+ width: 100%;
+ text-align: start;
+ color: black; 
+ margin-top: 20px;
+    
+} 
+
+span{
+  
+  float: right;
+  width: 100%;
+}
+#image1{
+display: none;
+
+
+}
+img{
+width: 90%;
+margin: 10px;
+}
+
+}
